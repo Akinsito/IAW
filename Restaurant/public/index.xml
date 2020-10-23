@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurante Pakkos</title>
+    <link>/</link>
+    <description>Recent content on Restaurante Pakkos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 22 Sep 2020 11:46:12 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menu</title>
+      <link>/menu/</link>
+      <pubDate>Fri, 02 Oct 2020 08:01:55 +0200</pubDate>
+      
+      <guid>/menu/</guid>
+      <description>El menú del día es el siguiente
+   Nombre Descripción Precio     Nombre A Blablba 15   Nombre B Blabla 17.95   Nombre C Blabla 21    </description>
+    </item>
+    
+    <item>
+      <title>Ubicacion</title>
+      <link>/ubicacio/</link>
+      <pubDate>Tue, 22 Sep 2020 11:46:20 +0200</pubDate>
+      
+      <guid>/ubicacio/</guid>
+      <description>Avda. de la Gozosa, 12 Inventi, 46888 España, Valencia</description>
+    </item>
+    
+    <item>
+      <title>Postres</title>
+      <link>/carta/postres/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:26 +0200</pubDate>
+      
+      <guid>/carta/postres/</guid>
+      <description>Te gustan los postres llamativos? Los creados en Japón son auténticas obras de arte, tanto visuales como en sabor. No pierdas la oportunidad.</description>
+    </item>
+    
+    <item>
+      <title>Pescados</title>
+      <link>/carta/peixos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:21 +0200</pubDate>
+      
+      <guid>/carta/peixos/</guid>
+      <description>En el Restaurante Pakkos podrás encontrarte con una exquisita variedad de platos de pescado, principalmente Sushi elaborados artesanalmente.</description>
+    </item>
+    
+    <item>
+      <title>Entrantes</title>
+      <link>/carta/entrants/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:16 +0200</pubDate>
+      
+      <guid>/carta/entrants/</guid>
+      <description>El Restaurante Pakkos es conocido por su estupenda temática Japonesa que hará una explosión de sabores al paladar.</description>
+    </item>
+    
+    <item>
+      <title>Carnes</title>
+      <link>/carta/carns/</link>
+      <pubDate>Tue, 22 Sep 2020 11:44:11 +0200</pubDate>
+      
+      <guid>/carta/carns/</guid>
+      <description>Excelentes carnes importadas directamente desde Japón, sobretodo la famosa carne de Kobe. </description>
+    </item>
+    
+    <item>
+      <title>Arroces</title>
+      <link>/carta/arrosos/</link>
+      <pubDate>Tue, 22 Sep 2020 11:43:55 +0200</pubDate>
+      
+      <guid>/carta/arrosos/</guid>
+      <description>Disponemos de una extensa variedad de arroces japoneses hechos de todo tipo por nuestro cocinero 100% japonés.</description>
+    </item>
+    
+    <item>
+      <title>Sobre el restaurant</title>
+      <link>/about/</link>
+      <pubDate>Tue, 22 Sep 2020 11:43:41 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>El restaurante nació debido a que el dueño aprendió técnicas culinarias japonesas de alto nivel, por lo que quiso trar a España el verdader sabor Nippon.
+Horario
+De Lunes a Viernes, desde las 10,00 hasta las 22,00 horas
+Sábados y Domingos solo se podrá con reserva.
+Nos ubicamos en la Avda. de la Gozosa 12</description>
+    </item>
+    
+  </channel>
+</rss>

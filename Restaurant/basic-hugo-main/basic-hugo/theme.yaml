@@ -1,0 +1,20 @@
+# theme.yaml template for a Hugo theme
+
+name: "basic-hugo"
+license: "MIT"
+licenselink: "https://github.com/garvincasimir/hugo-h5bp-simple/blob/master/LICENSE"
+description: "Plantilla de tema per a Hugo"
+homepage: ""
+tags: ["html5","simple","template"]
+features: ["html5", "template"]
+min_version: 0.14
+
+author:
+  name: "@joamuran"
+  homepage: ""
+
+# If porting an existing theme
+original:
+  name: "hugo-h5bp-simple"
+  homepage: "https://github.com/garvincasimir/hugo"
+  repo: "https://github.com/garvincasimir/hugo-h5bp-simple"

@@ -1,0 +1,11 @@
+<aside>
+    <h3>{{ .Title }}</h3>
+    <ul>
+        {{ $pages := .Parent.Data.Pages }}
+        {{ range first 10 $pages }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</aside>

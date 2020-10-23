@@ -1,0 +1,10 @@
+baseURL = ""
+languageCode = "es-ES"
+title = "Restaurante Pakkos"
+theme = "ananke"
+[menu]
+
+  [[menu.main]]
+    name = "Carta e imágenes"
+    url = "/carta/"
+    weight = -100
