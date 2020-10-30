@@ -1,0 +1,22 @@
+div{
+    border-color: #000000;
+    border-style: solid;
+}
+
+#header-container{
+    background-color: khaki;
+}
+
+#main-container{
+ background-color: lightcyan;
+}
+
+aside{
+    position: absolute;
+    top: 110px;
+    right: 25px;
+}
+
+#footer-container{
+    background-color: lightgray;
+}
